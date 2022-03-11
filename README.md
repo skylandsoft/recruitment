@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="images/header-660x500.png">
+</p>
+
 # We are Hiring! You Can Be The Next Skylander!
 
 No matter the circumstances, we always have a room for good talents. Because of that, we always accept new applications and start a new hiring process like we have been waiting that application for a long time. We know the next Skylander is somewhere over there. So please don't hesitate to share your resume via email to [talent@skylandsoft.com](mailto:talent@skylandsoft.com)
