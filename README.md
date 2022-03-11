@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="660" height="500" src="images/header-660x500.png">
+  <img width="330" height="250" src="images/header-660x500.png">
 </p>
 
 # We are Hiring! You Can Be The Next Skylander!
@@ -100,4 +100,6 @@ This is the last step in our recruitment process. The CEO basically chats with t
 
 We tried to share all the details with you. if you want to join the team of skylanders, do not hesitate and send your CV to [talent@skylandsoft.com](mailto:talent@skylandsoft.com).
 
-Hope to meet you soon...
+<p align="center">
+  <a href="mailto:talent@skylandsoft.com"><img width="330" height="250" src="images/apply-now.png"></a>
+</p>
