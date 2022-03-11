@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="images/header-660x500.png">
+  <img width="660" height="500" src="images/header-660x500.png">
 </p>
 
 # We are Hiring! You Can Be The Next Skylander!
