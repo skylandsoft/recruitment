@@ -101,5 +101,5 @@ This is the last step in our recruitment process. The CEO basically chats with t
 We tried to share all the details with you. if you want to join the team of skylanders, do not hesitate and send your CV to [talent@skylandsoft.com](mailto:talent@skylandsoft.com).
 
 <p align="center">
-  <a href="mailto:talent@skylandsoft.com"><img width="330" height="250" src="images/apply-now.png"></a>
+  <a href="mailto:talent@skylandsoft.com"><img width="50%" height="50%" src="images/apply-now.png"></a>
 </p>
