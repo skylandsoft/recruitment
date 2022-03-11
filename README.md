@@ -20,7 +20,7 @@ We are leaders by example on the forefront of the workplace revolution, changing
 
 **We don't have any team leader position** at Skyland. Every skylander is a natural-born leader and leads the team unintentionally regardless of work experience in years. 
 
-**We are active practitioners of pair/mob programming**. Therefore all crafters are expected to be skilled at collaboration and teamwork. 
+**We are active practitioners of pair/mob programming**. Therefore all skylanders are expected to be skilled at collaboration and teamwork. 
 
 # Expectations From a Skylander
 
@@ -31,7 +31,7 @@ No matter of age, or work experience in years, or previous job title, expectatio
 * Feels comfortable when working in pairs 
 * Collaborates with the team to make technical tasks done
 * Has an agile mindset
-* Has a mindset of high quality, simplicity, and well-craftedness
+* Has a mindset of high quality and simplicity
 * Has good soft and communication skills
 * Startup experience (would be great to have)
 * A good reader, experimenter, and hungry to learn and share
@@ -62,7 +62,7 @@ We are experts in the following technologies, architecture, and practices.
 * Android Development using Kotlin and Java
 * Web Development using React and Angular frameworks
 
-# How Craftgate Recruits
+# How Skyland Recruits
 
 We always seek new ways to build a more humanized, ethical, and fair recruitment process. We've evolved our recruiting strategy by gradually improving it throughout the years. We believe recruitment requires hard work both for us and the candidate and **we make it a win-win** for both sides. If you start your recruitment journey at Skyland, we guarantee you will learn and improve yourself at every step. 
 
